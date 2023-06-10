@@ -1,0 +1,38 @@
+# Data Manipulation and Analysis
+pandas  # For data manipulation and analysis
+numpy  # Useful for numerical operations
+
+# Excel File Interaction
+openpyxl  # To read/write Excel xlsx/xlsm/xltx/xltm files
+xlrd  # For reading older Excel files
+xlwt  # For writing older Excel files
+xlsxwriter  # For creating Excel files and handling advanced Excel features
+xlwings>  # For interacting directly with Excel
+
+# Financial and Mathematical Libraries
+scipy  # Useful for mathematical and scientific calculations
+numpy-financial  # Contains a collection of elementary financial functions
+pyfin  # Advanced options pricing
+
+# Statistical Analysis
+statsmodels  # For the estimation of many different statistical models
+
+# Visualization
+matplotlib  # For creating static, animated, and interactive visualizations
+seaborn  # For creating beautiful and informative statistical graphics
+
+# Testing
+# pytest  # A robust framework for creating and running tests
+# NOT COMPATIBLE WITH PYTHON 3.11
+
+# User Interface Libraries
+# PyQt  # A set of Python bindings for The Qt Company’s Qt application framework
+# NO MATCHING DISTRIBUTION FOUND FOR PYQT
+wxPython  # A set of Python bindings for wxWidgets
+
+# Jupyter for Interactive Documents
+jupyter  # For creating and running Jupyter notebooks
+
+# Python web frameworks for creating web-based interface
+Flask  # A micro web framework written in Python
+Django  # A high-level Python Web framework
